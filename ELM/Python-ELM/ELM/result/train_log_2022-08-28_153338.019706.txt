@@ -1,0 +1,195 @@
+label_train.shape:(3782, 1801)
+label_val.shape:(1621, 1801)
+num_nodes: 500
+regular_para: 2
+weight_random_range: [-1, 1]
+bias_random_range: [0, 1]
+scale_ratio: 0.9
+scale_mode: 1
+------------------------------------------------------
+Running NO.:1
+Training Time:0.21
+train_accuracy: 0.5885774722369117
+train_cross_entropy: 14.210030690240039
+train_f1_score: 0.4651722850995354
+pred_accuracy: 0.18136952498457742
+pred_cross_entropy: 28.274494926618992
+pred_f1_score: 0.14082870655973678
+-----------------------------------------------------
+Running NO.:2
+Training Time:0.20
+train_accuracy: 0.6084082496033845
+train_cross_entropy: 13.52509990504218
+train_f1_score: 0.4878846247333198
+pred_accuracy: 0.19617520049352252
+pred_cross_entropy: 27.763125010839936
+pred_f1_score: 0.15513992484998035
+-----------------------------------------------------
+Running NO.:3
+Training Time:0.21
+train_accuracy: 0.5965097831835008
+train_cross_entropy: 13.936058376160897
+train_f1_score: 0.47442105312279825
+pred_accuracy: 0.19123997532387416
+pred_cross_entropy: 27.933581649432956
+pred_f1_score: 0.14891948479240272
+-----------------------------------------------------
+Running NO.:4
+Training Time:0.22
+train_accuracy: 0.5959809624537282
+train_cross_entropy: 13.954323197099503
+train_f1_score: 0.4736830564540402
+pred_accuracy: 0.19740900678593462
+pred_cross_entropy: 27.72051085119168
+pred_f1_score: 0.15539109255950712
+-----------------------------------------------------
+Running NO.:5
+Training Time:0.20
+train_accuracy: 0.600211528291909
+train_cross_entropy: 13.808204629590628
+train_f1_score: 0.478914149226309
+pred_accuracy: 0.1918568784700802
+pred_cross_entropy: 27.91227456960883
+pred_f1_score: 0.15070992822380855
+-----------------------------------------------------
+Running NO.:6
+Training Time:0.20
+train_accuracy: 0.597567424643046
+train_cross_entropy: 13.899528734283678
+train_f1_score: 0.47578747685056205
+pred_accuracy: 0.19247378161628625
+pred_cross_entropy: 27.8909674897847
+pred_f1_score: 0.1502472953737605
+-----------------------------------------------------
+Running NO.:7
+Training Time:0.20
+train_accuracy: 0.5930724484399789
+train_cross_entropy: 14.054779712261858
+train_f1_score: 0.46993981229139453
+pred_accuracy: 0.189389265885256
+pred_cross_entropy: 27.997502888905334
+pred_f1_score: 0.14678916600569902
+-----------------------------------------------------
+Running NO.:8
+Training Time:0.19
+train_accuracy: 0.6028556319407721
+train_cross_entropy: 13.716880524897581
+train_f1_score: 0.4808210980804846
+pred_accuracy: 0.1918568784700802
+pred_cross_entropy: 27.91227456960883
+pred_f1_score: 0.15075937839663936
+-----------------------------------------------------
+Running NO.:9
+Training Time:0.21
+train_accuracy: 0.5988894764674775
+train_cross_entropy: 13.853866681937152
+train_f1_score: 0.4765792576012037
+pred_accuracy: 0.1838371375694016
+pred_cross_entropy: 28.18926660732248
+pred_f1_score: 0.14202579242677946
+-----------------------------------------------------
+Running NO.:10
+Training Time:0.21
+train_accuracy: 0.59227921734532
+train_cross_entropy: 14.08217694366977
+train_f1_score: 0.4693493530142362
+pred_accuracy: 0.189389265885256
+pred_cross_entropy: 27.997502888905334
+pred_f1_score: 0.1483319134768857
+-----------------------------------------------------
+Running NO.:11
+Training Time:0.21
+train_accuracy: 0.5965097831835008
+train_cross_entropy: 13.936058376160897
+train_f1_score: 0.47429439496778597
+pred_accuracy: 0.189389265885256
+pred_cross_entropy: 27.997502888905334
+pred_f1_score: 0.14666284774242822
+-----------------------------------------------------
+Running NO.:12
+Training Time:0.19
+train_accuracy: 0.6031200423056584
+train_cross_entropy: 13.707748114428274
+train_f1_score: 0.48123312876089186
+pred_accuracy: 0.19555829734731647
+pred_cross_entropy: 27.784432090664062
+pred_f1_score: 0.15371316941335447
+-----------------------------------------------------
+Running NO.:13
+Training Time:0.21
+train_accuracy: 0.5994182971972501
+train_cross_entropy: 13.835601860998542
+train_f1_score: 0.4780117572466003
+pred_accuracy: 0.1986428130783467
+pred_cross_entropy: 27.67789669154342
+pred_f1_score: 0.15378563105275012
+-----------------------------------------------------
+Running NO.:14
+Training Time:0.20
+train_accuracy: 0.5978318350079324
+train_cross_entropy: 13.890396323814372
+train_f1_score: 0.47583930625042753
+pred_accuracy: 0.19309068476249228
+pred_cross_entropy: 27.869660409960574
+pred_f1_score: 0.15263114087913593
+-----------------------------------------------------
+Running NO.:15
+Training Time:0.20
+train_accuracy: 0.5973030142781597
+train_cross_entropy: 13.908661144752982
+train_f1_score: 0.4739762863957968
+pred_accuracy: 0.19679210363972857
+pred_cross_entropy: 27.741817931015806
+pred_f1_score: 0.15450192415028935
+-----------------------------------------------------
+Running NO.:16
+Training Time:0.22
+train_accuracy: 0.606292966684294
+train_cross_entropy: 13.598159188796616
+train_f1_score: 0.48555387239167996
+pred_accuracy: 0.19740900678593462
+pred_cross_entropy: 27.72051085119168
+pred_f1_score: 0.15362210275843835
+-----------------------------------------------------
+Running NO.:17
+Training Time:0.20
+train_accuracy: 0.6054997355896351
+train_cross_entropy: 13.625556420204534
+train_f1_score: 0.48429004646497725
+pred_accuracy: 0.1918568784700802
+pred_cross_entropy: 27.91227456960883
+pred_f1_score: 0.15042742575129991
+-----------------------------------------------------
+Running NO.:18
+Training Time:0.20
+train_accuracy: 0.5893707033315706
+train_cross_entropy: 14.182633458832125
+train_f1_score: 0.4641908931306076
+pred_accuracy: 0.1881554595928439
+pred_cross_entropy: 28.04011704855359
+pred_f1_score: 0.1468214799800241
+-----------------------------------------------------
+Running NO.:19
+Training Time:0.20
+train_accuracy: 0.5991538868323638
+train_cross_entropy: 13.844734271467848
+train_f1_score: 0.47606044848789114
+pred_accuracy: 0.19000616903146206
+pred_cross_entropy: 27.976195809081208
+pred_f1_score: 0.14523221997003613
+-----------------------------------------------------
+Running NO.:20
+Training Time:0.20
+train_accuracy: 0.6031200423056584
+train_cross_entropy: 13.707748114428274
+train_f1_score: 0.48258605878761146
+pred_accuracy: 0.1881554595928439
+pred_cross_entropy: 28.04011704855359
+pred_f1_score: 0.1448003877676919
+-----------------------------------------------------
+-----------------------------------------------------
+train_acc_avg: 0.5985986250661026
+pred_acc_avg: 0.1917026526835287
+train_loss_avg: 13.863912333453388
+pred_loss_avg: 27.917601339564857
+train_time_avg: 0.20536240339279174

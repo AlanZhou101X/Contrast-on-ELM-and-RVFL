@@ -1,0 +1,442 @@
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2066625539790253, 'acc_train': 0.5936012691697514}
+Training Time for one option set:1.86
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22146822948797038, 'acc_train': 0.6189846641988366}
+Training Time for one option set:2.77
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23318938926588526, 'acc_train': 0.6337916446324696}
+Training Time for one option set:3.69
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2418260333127699, 'acc_train': 0.6427815970386039}
+Training Time for one option set:4.67
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2486119679210364, 'acc_train': 0.6501850872554205}
+Training Time for one option set:5.62
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2523133867982727, 'acc_train': 0.653358011634056}
+Training Time for one option set:6.53
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25724861196792104, 'acc_train': 0.6575885774722369}
+Training Time for one option set:8.32
+Total Training Time :41.95
+Best Train accuracy in:0.6641988365943945
+Best Test accuracy in:0.256631708821715
+Train accuracy:0.6641988365943945
+Test accuracy:0.256631708821715
+Mean train accuracy:0.6641988365943945
+Mean test accuracy:0.256631708821715
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.1918568784700802, 'acc_train': 0.5832892649391856}
+Training Time for one option set:2.13
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.20851326341764342, 'acc_train': 0.6142252776308831}
+Training Time for one option set:2.79
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22085132634176435, 'acc_train': 0.6263881544156531}
+Training Time for one option set:3.74
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22887106724244294, 'acc_train': 0.6316763617133792}
+Training Time for one option set:4.63
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2313386798272671, 'acc_train': 0.6377578001057641}
+Training Time for one option set:5.76
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2338062924120913, 'acc_train': 0.6414595452141724}
+Training Time for one option set:6.83
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23689080814312152, 'acc_train': 0.6464833421470122}
+Training Time for one option set:7.72
+Total Training Time :41.20
+Best Train accuracy in:0.639344262295082
+Best Test accuracy in:0.2313386798272671
+Train accuracy:0.639344262295082
+Test accuracy:0.2313386798272671
+Mean train accuracy:0.639344262295082
+Mean test accuracy:0.2313386798272671
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2054287476866132, 'acc_train': 0.5965097831835008}
+Training Time for one option set:1.91
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22270203578038247, 'acc_train': 0.6144896879957694}
+Training Time for one option set:2.83
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2418260333127699, 'acc_train': 0.6348492860920149}
+Training Time for one option set:3.73
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24429364589759409, 'acc_train': 0.6417239555790587}
+Training Time for one option set:4.94
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24676125848241826, 'acc_train': 0.645425700687467}
+Training Time for one option set:6.24
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2486119679210364, 'acc_train': 0.6493918561607614}
+Training Time for one option set:7.16
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2529302899444787, 'acc_train': 0.6523003701745108}
+Training Time for one option set:8.09
+Total Training Time :42.81
+Best Train accuracy in:0.6501850872554205
+Best Test accuracy in:0.2523133867982727
+Train accuracy:0.6501850872554205
+Test accuracy:0.2523133867982727
+Mean train accuracy:0.6501850872554205
+Mean test accuracy:0.2523133867982727
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.1918568784700802, 'acc_train': 0.5848757271285034}
+Training Time for one option set:1.97
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2134484885872918, 'acc_train': 0.6176626123744051}
+Training Time for one option set:2.99
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22393584207279457, 'acc_train': 0.6282390269698572}
+Training Time for one option set:3.79
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2338062924120913, 'acc_train': 0.6398730830248546}
+Training Time for one option set:4.72
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23565700185070945, 'acc_train': 0.645425700687467}
+Training Time for one option set:5.63
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23689080814312152, 'acc_train': 0.6472765732416711}
+Training Time for one option set:6.65
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23874151758173967, 'acc_train': 0.6496562665256478}
+Training Time for one option set:8.05
+Total Training Time :41.64
+Best Train accuracy in:0.6623479640401904
+Best Test accuracy in:0.2461443553362122
+Train accuracy:0.6623479640401904
+Test accuracy:0.2461443553362122
+Mean train accuracy:0.6623479640401904
+Mean test accuracy:0.2461443553362122
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.215916101172116, 'acc_train': 0.6007403490216816}
+Training Time for one option set:1.90
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23442319555829735, 'acc_train': 0.6316763617133792}
+Training Time for one option set:2.94
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24552745219000616, 'acc_train': 0.6451612903225806}
+Training Time for one option set:3.90
+Training Time for one option set:4.76
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25354719309068474, 'acc_train': 0.6591750396615548}
+Training Time for one option set:5.63
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25848241826033314, 'acc_train': 0.6634056054997356}
+Training Time for one option set:6.65
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25971622455274523, 'acc_train': 0.6668429402432575}
+Training Time for one option set:7.57
+Total Training Time :40.86
+Best Train accuracy in:0.6589106292966684
+Best Test accuracy in:0.2578655151141271
+Train accuracy:0.6589106292966684
+Test accuracy:0.2578655151141271
+Mean train accuracy:0.6589106292966684
+Mean test accuracy:0.2578655151141271
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2054287476866132, 'acc_train': 0.5885774722369117}
+Training Time for one option set:1.85
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23195558297347316, 'acc_train': 0.627181385510312}
+Training Time for one option set:2.81
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24120913016656384, 'acc_train': 0.6406663141195135}
+Training Time for one option set:3.71
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2473781616286243, 'acc_train': 0.6499206768905341}
+Training Time for one option set:4.66
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2541640962368908, 'acc_train': 0.6541512427287149}
+Training Time for one option set:5.68
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.26095003084515733, 'acc_train': 0.6607615018508726}
+Training Time for one option set:6.56
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2634176434299815, 'acc_train': 0.6652564780539397}
+Training Time for one option set:7.51
+Total Training Time :40.32
+Best Train accuracy in:0.6649920676890534
+Best Test accuracy in:0.25478099938309684
+Train accuracy:0.6649920676890534
+Test accuracy:0.25478099938309684
+Mean train accuracy:0.6649920676890534
+Mean test accuracy:0.25478099938309684
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.19925971622455274, 'acc_train': 0.5983606557377049}
+Training Time for one option set:1.88
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21714990746452806, 'acc_train': 0.627181385510312}
+Training Time for one option set:2.77
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22640345465761874, 'acc_train': 0.6414595452141724}
+Training Time for one option set:3.73
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.229487970388649, 'acc_train': 0.6512427287149656}
+Training Time for one option set:4.70
+Training Time for one option set:5.64
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23010487353485504, 'acc_train': 0.6509783183500794}
+Training Time for one option set:6.58
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23195558297347316, 'acc_train': 0.653358011634056}
+Training Time for one option set:8.11
+Total Training Time :41.22
+Best Train accuracy in:0.6509783183500794
+Best Test accuracy in:0.23195558297347316
+Train accuracy:0.6509783183500794
+Test accuracy:0.23195558297347316
+Mean train accuracy:0.6509783183500794
+Mean test accuracy:0.23195558297347316
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2177668106107341, 'acc_train': 0.588841882601798}
+Training Time for one option set:2.01
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23627390499691547, 'acc_train': 0.6205711263881544}
+Training Time for one option set:3.16
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.243059839605182, 'acc_train': 0.6327340031729244}
+Training Time for one option set:4.25
+Training Time for one option set:4.89
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25046267735965455, 'acc_train': 0.6478053939714437}
+Training Time for one option set:5.63
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2529302899444787, 'acc_train': 0.6499206768905341}
+Training Time for one option set:6.56
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2578655151141271, 'acc_train': 0.6541512427287149}
+Training Time for one option set:7.66
+Total Training Time :42.18
+Best Train accuracy in:0.6599682707562137
+Best Test accuracy in:0.2553979025293029
+Train accuracy:0.6599682707562137
+Test accuracy:0.2553979025293029
+Mean train accuracy:0.6599682707562137
+Mean test accuracy:0.2553979025293029
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2041949413942011, 'acc_train': 0.5946589106292967}
+Training Time for one option set:1.88
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2270203578038248, 'acc_train': 0.6229508196721312}
+Training Time for one option set:2.79
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23010487353485504, 'acc_train': 0.6319407720782655}
+Training Time for one option set:3.73
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23874151758173967, 'acc_train': 0.6401374933897409}
+Training Time for one option set:4.66
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23997532387415177, 'acc_train': 0.6411951348492861}
+Training Time for one option set:5.62
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24429364589759409, 'acc_train': 0.6448968799576943}
+Training Time for one option set:7.06
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25046267735965455, 'acc_train': 0.6478053939714437}
+Training Time for one option set:8.33
+Total Training Time :41.63
+Best Train accuracy in:0.6520359598096246
+Best Test accuracy in:0.25169648365206665
+Train accuracy:0.6520359598096246
+Test accuracy:0.25169648365206665
+Mean train accuracy:0.6520359598096246
+Mean test accuracy:0.25169648365206665
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.1998766193707588, 'acc_train': 0.5901639344262295}
+Training Time for one option set:1.92
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21283158544108574, 'acc_train': 0.6187202538339502}
+Training Time for one option set:2.79
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22455274521900062, 'acc_train': 0.6311475409836066}
+Training Time for one option set:3.72
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23442319555829735, 'acc_train': 0.6404019037546271}
+Training Time for one option set:4.86
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23874151758173967, 'acc_train': 0.6425171866737176}
+Training Time for one option set:5.58
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2418260333127699, 'acc_train': 0.6467477525118984}
+Training Time for one option set:6.54
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24552745219000616, 'acc_train': 0.6499206768905341}
+Training Time for one option set:7.47
+Total Training Time :40.33
+Best Train accuracy in:0.6679005817028028
+Best Test accuracy in:0.2498457742134485
+Train accuracy:0.6679005817028028
+Test accuracy:0.2498457742134485
+Mean train accuracy:0.6679005817028028
+Mean test accuracy:0.2498457742134485
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.20913016656384947, 'acc_train': 0.585404547858276}
+Training Time for one option set:1.87
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2313386798272671, 'acc_train': 0.6171337916446324}
+Training Time for one option set:2.76
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24120913016656384, 'acc_train': 0.6287678476996298}
+Training Time for one option set:3.67
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24491054904380014, 'acc_train': 0.63590692755156}
+Training Time for one option set:4.59
+Training Time for one option set:5.55
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24799506477483035, 'acc_train': 0.6433104177683765}
+Training Time for one option set:6.50
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2510795805058606, 'acc_train': 0.6467477525118984}
+Training Time for one option set:7.53
+Total Training Time :39.90
+Best Train accuracy in:0.6557377049180327
+Best Test accuracy in:0.25971622455274523
+Train accuracy:0.6557377049180327
+Test accuracy:0.25971622455274523
+Mean train accuracy:0.6557377049180327
+Mean test accuracy:0.25971622455274523
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.20913016656384947, 'acc_train': 0.5830248545742993}
+Training Time for one option set:1.88
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22270203578038247, 'acc_train': 0.6113167636171338}
+Training Time for one option set:2.80
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.229487970388649, 'acc_train': 0.6250661025912215}
+Training Time for one option set:3.85
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23627390499691547, 'acc_train': 0.6285034373347436}
+Training Time for one option set:4.89
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2418260333127699, 'acc_train': 0.633262823902697}
+Training Time for one option set:5.61
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25046267735965455, 'acc_train': 0.6406663141195135}
+Training Time for one option set:6.60
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25601480567550894, 'acc_train': 0.6462189317821259}
+Training Time for one option set:7.53
+Total Training Time :40.61
+Best Train accuracy in:0.64806980433633
+Best Test accuracy in:0.2590993214065392
+Train accuracy:0.64806980433633
+Test accuracy:0.2590993214065392
+Mean train accuracy:0.64806980433633
+Mean test accuracy:0.2590993214065392
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.19123997532387416, 'acc_train': 0.5898995240613432}
+Training Time for one option set:1.84
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.20913016656384947, 'acc_train': 0.6218931782125859}
+Training Time for one option set:2.76
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22085132634176435, 'acc_train': 0.6414595452141724}
+Training Time for one option set:3.68
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22455274521900062, 'acc_train': 0.645425700687467}
+Training Time for one option set:4.60
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22887106724244294, 'acc_train': 0.6523003701745108}
+Training Time for one option set:5.56
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23195558297347316, 'acc_train': 0.6541512427287149}
+Training Time for one option set:6.49
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2338062924120913, 'acc_train': 0.6557377049180327}
+Training Time for one option set:7.57
+Total Training Time :39.97
+Best Train accuracy in:0.6562665256478054
+Best Test accuracy in:0.2325724861196792
+Train accuracy:0.6562665256478054
+Test accuracy:0.2325724861196792
+Mean train accuracy:0.6562665256478054
+Mean test accuracy:0.2325724861196792
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22270203578038247, 'acc_train': 0.5787942887361185}
+Training Time for one option set:1.86
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24676125848241826, 'acc_train': 0.6192490745637229}
+Training Time for one option set:2.75
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25478099938309684, 'acc_train': 0.6364357482813326}
+Training Time for one option set:3.72
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25971622455274523, 'acc_train': 0.6422527763088313}
+Training Time for one option set:4.83
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2615669339913634, 'acc_train': 0.6438392384981492}
+Training Time for one option set:5.68
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2646514497223936, 'acc_train': 0.6488630354309889}
+Training Time for one option set:6.67
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2677359654534238, 'acc_train': 0.6499206768905341}
+Training Time for one option set:7.64
+Total Training Time :40.80
+Best Train accuracy in:0.6448968799576943
+Best Test accuracy in:0.2646514497223936
+Train accuracy:0.6448968799576943
+Test accuracy:0.2646514497223936
+Mean train accuracy:0.6448968799576943
+Mean test accuracy:0.2646514497223936
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.1906230721776681, 'acc_train': 0.5861977789529349}
+Training Time for one option set:1.89
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21283158544108574, 'acc_train': 0.6171337916446324}
+Training Time for one option set:2.81
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21529919802590994, 'acc_train': 0.6248016922263353}
+Training Time for one option set:4.44
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22270203578038247, 'acc_train': 0.6343204653622422}
+Training Time for one option set:4.77
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22887106724244294, 'acc_train': 0.641988365943945}
+Training Time for one option set:5.65
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2325724861196792, 'acc_train': 0.6483342147012163}
+Training Time for one option set:6.57
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2338062924120913, 'acc_train': 0.6470121628767848}
+Training Time for one option set:7.82
+Total Training Time :41.68
+Best Train accuracy in:0.6372289793759915
+Best Test accuracy in:0.23072177668106109
+Train accuracy:0.6372289793759915
+Test accuracy:0.23072177668106109
+Mean train accuracy:0.6372289793759915
+Mean test accuracy:0.23072177668106109
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21714990746452806, 'acc_train': 0.5962453728186144}
+Training Time for one option set:2.08
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23072177668106109, 'acc_train': 0.6269169751454257}
+Training Time for one option set:2.96
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24491054904380014, 'acc_train': 0.6422527763088313}
+Training Time for one option set:3.71
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2486119679210364, 'acc_train': 0.645425700687467}
+Training Time for one option set:4.88
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25601480567550894, 'acc_train': 0.6525647805393971}
+Training Time for one option set:5.57
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.25724861196792104, 'acc_train': 0.6552088841882602}
+Training Time for one option set:6.52
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.26095003084515733, 'acc_train': 0.6575885774722369}
+Training Time for one option set:7.57
+Total Training Time :40.83
+Best Train accuracy in:0.6528291909042835
+Best Test accuracy in:0.25724861196792104
+Train accuracy:0.6528291909042835
+Test accuracy:0.25724861196792104
+Mean train accuracy:0.6528291909042835
+Mean test accuracy:0.25724861196792104
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.19617520049352252, 'acc_train': 0.5877842411422528}
+Training Time for one option set:1.90
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21098087600246762, 'acc_train': 0.6218931782125859}
+Training Time for one option set:3.33
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22331893892658852, 'acc_train': 0.6340560549973558}
+Training Time for one option set:4.42
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22887106724244294, 'acc_train': 0.6427815970386039}
+Training Time for one option set:5.08
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23195558297347316, 'acc_train': 0.6485986250661026}
+Training Time for one option set:6.84
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2350400987045034, 'acc_train': 0.6528291909042835}
+Training Time for one option set:7.08
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23565700185070945, 'acc_train': 0.6565309360126917}
+Training Time for one option set:7.97
+Total Training Time :44.79
+Best Train accuracy in:0.6575885774722369
+Best Test accuracy in:0.23318938926588526
+Train accuracy:0.6575885774722369
+Test accuracy:0.23318938926588526
+Mean train accuracy:0.6575885774722369
+Mean test accuracy:0.23318938926588526
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.19432449105490437, 'acc_train': 0.5774722369116869}
+Training Time for one option set:2.06
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.21529919802590994, 'acc_train': 0.6136964569011105}
+Training Time for one option set:3.01
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22270203578038247, 'acc_train': 0.6248016922263353}
+Training Time for one option set:3.91
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22887106724244294, 'acc_train': 0.6364357482813326}
+Training Time for one option set:5.45
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23072177668106109, 'acc_train': 0.6404019037546271}
+Training Time for one option set:6.99
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23689080814312152, 'acc_train': 0.6456901110523533}
+Training Time for one option set:6.95
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2418260333127699, 'acc_train': 0.6483342147012163}
+Training Time for one option set:7.72
+Total Training Time :44.37
+Best Train accuracy in:0.6530936012691697
+Best Test accuracy in:0.2418260333127699
+Train accuracy:0.6530936012691697
+Test accuracy:0.2418260333127699
+Mean train accuracy:0.6530936012691697
+Mean test accuracy:0.2418260333127699
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.202344231955583, 'acc_train': 0.6057641459545214}
+Training Time for one option set:2.06
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2202344231955583, 'acc_train': 0.6329984135378107}
+Training Time for one option set:3.45
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22331893892658852, 'acc_train': 0.6388154415653093}
+Training Time for one option set:4.70
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2325724861196792, 'acc_train': 0.6483342147012163}
+Training Time for one option set:5.53
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23689080814312152, 'acc_train': 0.6528291909042835}
+Training Time for one option set:5.84
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24120913016656384, 'acc_train': 0.6589106292966684}
+Training Time for one option set:6.71
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24244293645897594, 'acc_train': 0.6599682707562137}
+Training Time for one option set:7.70
+Total Training Time :43.51
+Best Train accuracy in:0.6517715494447383
+Best Test accuracy in:0.2282541640962369
+Train accuracy:0.6517715494447383
+Test accuracy:0.2282541640962369
+Mean train accuracy:0.6517715494447383
+Mean test accuracy:0.2282541640962369
+----------------------------------------------------------------------
+Temp Best Option:{'N': 500, 'L': 1, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.20974706971005552, 'acc_train': 0.5859333685880487}
+Training Time for one option set:1.87
+Temp Best Option:{'N': 500, 'L': 2, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.22763726095003084, 'acc_train': 0.6155473294553147}
+Training Time for one option set:2.76
+Temp Best Option:{'N': 500, 'L': 3, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.23565700185070945, 'acc_train': 0.6263881544156531}
+Training Time for one option set:3.71
+Temp Best Option:{'N': 500, 'L': 4, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.243059839605182, 'acc_train': 0.63590692755156}
+Training Time for one option set:4.59
+Temp Best Option:{'N': 500, 'L': 5, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2461443553362122, 'acc_train': 0.639344262295082}
+Training Time for one option set:5.79
+Temp Best Option:{'N': 500, 'L': 6, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.24676125848241826, 'acc_train': 0.6438392384981492}
+Training Time for one option set:7.84
+Temp Best Option:{'N': 500, 'L': 7, 'C': 2048, 'nCV': 0, 'scale': 1, 'seed': 0, 'acc_test': 0.2529302899444787, 'acc_train': 0.650713907985193}
+Training Time for one option set:9.29
+Total Training Time :44.15
+Best Train accuracy in:0.6515071390798519
+Best Test accuracy in:0.2510795805058606
+Train accuracy:0.6515071390798519
+Test accuracy:0.2510795805058606
+Mean train accuracy:0.6515071390798519
+Mean test accuracy:0.2510795805058606
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+train_acc_avg: 0.6539925965097833
+pred_acc_avg: 0.24731647131400375
+train_loss_avg: 11.950672340134034
+pred_loss_avg: 25.996768093419767
+train_time_avg: 5.294245636463165
